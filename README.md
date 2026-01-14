@@ -6,49 +6,27 @@ Introduction: The Dawn of a Technological Revolution in Learning
 Artificial Intelligence is something that people did not really know about before. Now it is changing everything. It is changing the way we learn and the way we live. Artificial Intelligence is also changing how we work and how we are productive. This is happening because of a big things coming together like big data and cloud computing and artificial neural networks. These things are letting machines do things that're really complicated and they can even do them in a way that is similar, to how humans think. Artificial Intelligence is a part of something called the Fourth Industrial Revolution. Because of this schools and universities are having to make some changes to the way they do things. Artificial Intelligence is really driving these changes. It is making them think about how they can use Artificial Intelligence to improve the way they teach and learn.
 
 The market for Artificial Intelligence in education is really taking off. Artificial Intelligence in education is becoming very popular. People believe that Artificial Intelligence in education will be worth a lot of money than twenty billion dollars in just five years. Artificial Intelligence, in education is growing fast.
-
 The United States and other countries like Singapore, India and China are making plans to use Artificial Intelligence in education.
-
 Artificial Intelligence is something that they think is very important.
-
 They want to use Artificial Intelligence to make their countries better and more modern.
-
 The United States and these countries think that Artificial Intelligence will help them a lot.
-
 They believe that Artificial Intelligence is the key to making their education system better.
-
 The United States and other countries, like Singapore, India and China are really focusing on Artificial Intelligence.
-
 Artificial Intelligence in education has been around for a long time now.
-
 If we think about Artificial Intelligence it started a time ago back in the 1920s and 1950s.
-
 People made machines that could help students learn things and give them feedback on their work.
-
 These old machines were called "teaching machines."
-
 They were based on some ideas, about how people learn new things and Artificial Intelligence was used to make these machines work.
-
 Artificial Intelligence is still used today to help students learn things.
-
 Artificial intelligence in education is really different now. Artificial intelligence has come a way in education.
-
 It has taken a time but the field of artificial intelligence in education has changed a lot.
-
 At first it was pretty simple. Now we have complicated systems like Jaime Carbonell’s SCHOLAR.
-
 This system was the first to let computers and students have conversations where both sides could start talking.
-
 Artificial intelligence, in education is still. Artificial intelligence is making it happen.
-
 Today Artificial Intelligence in education is divided into three parts: the part where we make the systems the part where we get information out of them and the part where we make sure people can use them.
-
 Artificial Intelligence in education is really about making things work for each person.
-
 The main goal of Artificial Intelligence in education is to stop using the thing for everyone and start using something that is just right for each person something that is made just for them like a special suit that fits perfectly.
-
 Artificial Intelligence in education wants to be precise and tailored to learner profiles so each person gets what they need.
-
 This means Artificial Intelligence in education has to be good at understanding people and what they're, like so it can give them what they need to learn.
 
 Application of AI in Education
