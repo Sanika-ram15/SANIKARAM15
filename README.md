@@ -1,4 +1,4 @@
-# SANIKARAM15
+# AI IN EDUCATION 
 AI in education enhances learning by personalizing content, supporting teachers, and improving accessibility. It adapts to student needs, reduces routine workload for educators, and creates engaging, inclusive classrooms, making learning more effective, flexible, and future-ready.
 
 Introduction: The Dawn of a Technological Revolution in Learning
